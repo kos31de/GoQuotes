@@ -1,11 +1,11 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/skanehira/go-cli-template?style=social)
-![GitHub](https://img.shields.io/github/license/skanehira/go-cli-template)
-![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/skanehira/go-cli-template)
-![GitHub all releases](https://img.shields.io/github/downloads/skanehira/go-cli-template/total)
-![GitHub CI Status](https://img.shields.io/github/workflow/status/skanehira/go-cli-template/ci?label=CI)
-![GitHub Release Status](https://img.shields.io/github/workflow/status/skanehira/go-cli-template/Release?label=release)
+![GitHub Repo stars](https://img.shields.io/github/stars/kos31de/GoQuotes?style=social)
+![GitHub](https://img.shields.io/github/license/kos31de/GoQuotes)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/kos31de/GoQuotes)
+![GitHub all releases](https://img.shields.io/github/downloads/kos31de/GoQuotes/total)
+![GitHub CI Status](https://img.shields.io/github/workflow/status/kos31de/GoQuotes/ci?label=CI)
+![GitHub Release Status](https://img.shields.io/github/workflow/status/kos31de/GoQuotes/Release?label=release)
 
-# go-cli-template
+# GoQuotes
 This is template that help you to quick implement some CLI using Go.
 
 This repository is contains following.
@@ -18,8 +18,8 @@ This repository is contains following.
 
 ## How to use
 1. fork this repository
-2. replace `skanehira` to your user name using `sed`(or others)
+2. replace `kos31de` to your user name using `sed`(or others)
 3. run `make init`
 
 ## Author
-skanehira
+kos31de
